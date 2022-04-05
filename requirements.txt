@@ -1,0 +1,6 @@
+dj-database-url
+Django
+gunicorn
+psycopg2==2.8.5
+whitenoise
+requests
